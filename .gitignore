@@ -1,0 +1,7 @@
+# Project exclude paths
+/105-cloud-20191203-common/target/
+/105-cloud-20191203-eureka/target/
+/105-cloud-20191203-eureka2/target/
+/105-cloud-20191203-feign-consumer/target/
+/105-cloud-20191203-provider/target/
+/105-cloud-20191203-ribbon-consumer/target/
